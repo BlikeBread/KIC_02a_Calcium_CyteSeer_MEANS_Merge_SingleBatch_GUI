@@ -103,6 +103,6 @@ WHOLE-IMAGE MEANS summary tables generated from CyteSeer calcium transient measu
 
 ## Authorship
 
-This script was developed by **Michele Buono, Talitha Spanjersberg, Nikki Scheen, and Nina van der Wilt** and can be used freely for research purposes, provided appropriate citation of the authors.
+This script was developed by **Michele Buono, Talitha Spanjersberg, Nikki Scheen, Nina van der Wilt** and can be used freely for research purposes, provided appropriate citation of the authors.
 
 The overall workflow, structure, and clarity of the pipeline were iteratively refined with assistance from **OpenAI – ChatGPT 5.2**, which was used as a tool to improve code organization, documentation, and usability.
